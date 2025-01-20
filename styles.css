@@ -1,0 +1,94 @@
+body {
+  background-image: url(https://cdn.pixabay.com/photo/2020/10/07/12/33/cafe-5635015_1280.jpg);
+}
+
+h1{ text-align:center;
+ padding: 20px;
+  background-color: beige;
+ margin:80px}
+
+h4 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: burlywood;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 500px;
+  text-align: center;
+
+
+
+}
+
+p {
+  color: black;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+}
+
+h2 {
+  background-color: bisque;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 500px;
+  text-align: center;
+}
+#Catergories{color: whitesmoke;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+h3{text-align: center;
+  margin: auto;
+  padding: 40px;
+  width:40%;
+  background-color:black;
+  color: aliceblue;
+  text-align: center;
+border-bottom: 10px;
+border-color: white;}
+#cat{
+  padding: 10px;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+.item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  padding: 5px 0;
+}
+
+.flavor {
+  margin-left: 50px;
+  font-size: 25px;
+  color: white;
+  padding: 20px;
+background-color: black;
+  margin-left:50px;
+  text-align: left;
+}
+
+.price {
+  font-size: 25px;
+  margin-right: 450px;
+padding: 20px;
+  background-color: white;
+  text-align: center;
+  content: white;
+  font-weight: bold;
+}
+#cup{align-content: center
+;}
+h5{text-align: left;
+font-size: 25px;
+}
+span{color: white;}
+#footerone{text-align: left;}
+#footertwo{text-align: right;}
+#info{font-size: 25px;}
+#size{font-size: 20px;}
